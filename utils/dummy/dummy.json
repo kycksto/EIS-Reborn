@@ -1,0 +1,363 @@
+{
+    "visi": {
+        "code": 200,
+        "status": "success",
+        "message": "Berhasil Memuat Data",
+        "values": [
+            {
+                "kode_visi": 1,
+                "isi_visi": "Menjadi Perguruan Tinggi Terbuka dan Jarak Jauh Berkualitas Dunia",
+                "total_alokasi": 2196049302000,
+                "total_realisasi": 371647223318,
+                "persen_realisasi": 16.92344625321167,
+                "sisa_alokasi": 1824402078682
+            }
+        ],
+        "meta": {
+            "total": "",
+            "page": "",
+            "limit": ""
+        }
+    },
+    "misi": {
+        "code": 200,
+        "status": "success",
+        "message": "Berhasil Memuat Data",
+        "values": [
+            {
+                "kode_visi": 1,
+                "kode_misi": 1,
+                "isi_misi": "Meningkatkan daya tampung pendidikan tinggi negeri",
+                "total_alokasi": 535210630712,
+                "total_realisasi": 152972557302,
+                "persen_realisasi": 28.581748665660463,
+                "sisa_alokasi": 382238073410
+            },
+            {
+                "kode_visi": 1,
+                "kode_misi": 2,
+                "isi_misi": "Meningkatkan pemerataan akses pendidikan tinggi yang berkualitas dunia",
+                "total_alokasi": 1581970921288,
+                "total_realisasi": 173367527160,
+                "persen_realisasi": 10.95895789404578,
+                "sisa_alokasi": 1408603394128
+            },
+            {
+                "kode_visi": 1,
+                "kode_misi": 3,
+                "isi_misi": "Mengembangkan budaya belajar sepanjang hayat",
+                "total_alokasi": 450000000,
+                "total_realisasi": 450000000,
+                "persen_realisasi": 100,
+                "sisa_alokasi": 0
+            },
+            {
+                "kode_visi": 1,
+                "kode_misi": 4,
+                "isi_misi": "Mendiseminasikan hasil kajian keilmuan dan pendidikan jarak jauh untuk\nmendukung pembangunan nasional dan global",
+                "total_alokasi": 78417750000,
+                "total_realisasi": 44857138856,
+                "persen_realisasi": 57.20278745054531,
+                "sisa_alokasi": 33560611144
+            }
+        ],
+        "meta": {
+            "total": "",
+            "page": "",
+            "limit": ""
+        }
+    },
+    "tujuan": {
+        "code": 200,
+        "status": "success",
+        "message": "Berhasil Memuat Data",
+        "values": [
+            {
+                "kode_misi": 3,
+                "kode_tujuan": 6,
+                "isi_tujuan": "Mendukung pengembangan dan penyelenggaraan sistem pembelajaran\njarak jauh di Indonesia",
+                "total_alokasi": 450000000,
+                "total_realisasi": 450000000,
+                "persen_realisasi": 100,
+                "sisa_alokasi": 0
+            }
+        ],
+        "meta": {
+            "total": "",
+            "page": "",
+            "limit": ""
+        }
+    },
+    "fokus": {
+        "code": 200,
+        "status": "success",
+        "message": "Berhasil Memuat Data",
+        "values": [
+            {
+                "kode_tujuan": 3,
+                "kode_fokus": 1,
+                "isi_fokus": "Kualitas Akademik",
+                "total_alokasi": 26387294192,
+                "total_realisasi": 11046179826,
+                "persen_realisasi": 41.861737492391086,
+                "sisa_alokasi": 15341114366
+            },
+            {
+                "kode_tujuan": 3,
+                "kode_fokus": 2,
+                "isi_fokus": "Tata Kelola",
+                "total_alokasi": 1085777277796,
+                "total_realisasi": 153420770468,
+                "persen_realisasi": 14.1300406266952,
+                "sisa_alokasi": 932356507328
+            },
+            {
+                "kode_tujuan": 3,
+                "kode_fokus": 3,
+                "isi_fokus": "Daya Jangkau",
+                "total_alokasi": 87960000,
+                "total_realisasi": 55661004,
+                "persen_realisasi": 63.27990450204638,
+                "sisa_alokasi": 32298996
+            }
+        ],
+        "meta": {
+            "total": "",
+            "page": "",
+            "limit": ""
+        }
+    },
+    "komponen": {
+        "code": 200,
+        "status": "success",
+        "message": "Berhasil Memuat Data",
+        "values": [
+            {
+                "kode_tujuan": 3,
+                "kode_fokus": 1,
+                "kode_komponen_rpjp": "1.04",
+                "kode_komponen_rpjp_sub": "1.04.01",
+                "nama_komponen": "Peningkatan kegiatan pembekalan dan pemeliharaan keberhasilan belajar mahasiswa",
+                "total_alokasi": 26331014192,
+                "total_realisasi": 11046179826,
+                "persen_realisasi": 41.95121291361461,
+                "sisa_alokasi": 15284834366
+            },
+            {
+                "kode_tujuan": 3,
+                "kode_fokus": 1,
+                "kode_komponen_rpjp": "1.05",
+                "kode_komponen_rpjp_sub": "1.05.01",
+                "nama_komponen": "Desain Pembelajaran",
+                "total_alokasi": 56280000,
+                "total_realisasi": 0,
+                "persen_realisasi": 0,
+                "sisa_alokasi": 56280000
+            }
+        ],
+        "meta": {
+            "total": "",
+            "page": "",
+            "limit": ""
+        }
+    },
+    "sastra": {
+        "code": 200,
+        "status": "success",
+        "message": "Berhasil Memuat Data",
+        "values": [
+            {
+                "kode_komponen_rpjp_sub": "1.02.01",
+                "kode_sastra_rpjp": "1.02.01.01",
+                "sastra": "Diterapkanya capaian pembelajaran lulusan Diploma/S1/S2/S3 telah sesuai dengan standar yang ditetapkan oleh UT ",
+                "total_alokasi": 2186033000,
+                "total_realisasi": 219557998,
+                "persen_realisasi": 10.04367262525314,
+                "sisa_alokasi": 1966475002
+            },
+            {
+                "kode_komponen_rpjp_sub": "1.02.01",
+                "kode_sastra_rpjp": "1.02.01.02",
+                "sastra": "Diterapkannya Mata Kuliah Bersama dan/atau Bahan Ajar Bersama mencapai 40% per prodi",
+                "total_alokasi": 161012000,
+                "total_realisasi": 23242760,
+                "persen_realisasi": 14.43542096241274,
+                "sisa_alokasi": 137769240
+            },
+            {
+                "kode_komponen_rpjp_sub": "1.02.01",
+                "kode_sastra_rpjp": "1.02.01.03",
+                "sastra": "Diterapkannya kebijakan Merdeka Belajar dan Kampus Merdeka (MBKM)",
+                "total_alokasi": 383300000,
+                "total_realisasi": 30000000,
+                "persen_realisasi": 7.826767545003914,
+                "sisa_alokasi": 353300000
+            }
+        ],
+        "meta": {
+            "total": "",
+            "page": "",
+            "limit": ""
+        }
+    },
+    "program": {
+        "code": 200,
+        "status": "success",
+        "message": "Berhasil Memuat Data",
+        "values": [
+            {
+                "kode_sastra_rpjp": "1.01.01.01",
+                "kode_program_rsb": "1.01.01.01.01",
+                "program_rsb": "Penyediaan program pendidikan bergelar",
+                "total_alokasi": 3625471000,
+                "total_realisasi": 189992000,
+                "persen_realisasi": 5.240477719998312,
+                "sisa_alokasi": 3435479000
+            },
+            {
+                "kode_sastra_rpjp": "1.01.01.01",
+                "kode_program_rsb": "1.01.01.01.02",
+                "program_rsb": "Penyediaan program pendidikan bergelar magister",
+                "total_alokasi": 90136000,
+                "total_realisasi": 0,
+                "persen_realisasi": 0,
+                "sisa_alokasi": 90136000
+            },
+            {
+                "kode_sastra_rpjp": "1.01.01.01",
+                "kode_program_rsb": "1.01.01.01.03",
+                "program_rsb": "Penyediaan program pendidikan bergelar Doktor",
+                "total_alokasi": 59068000,
+                "total_realisasi": 0,
+                "persen_realisasi": 0,
+                "sisa_alokasi": 59068000
+            },
+            {
+                "kode_sastra_rpjp": "1.01.01.01",
+                "kode_program_rsb": "1.01.01.01.05",
+                "program_rsb": "Penyediaan program pendidikan sertifikat",
+                "total_alokasi": 453960000,
+                "total_realisasi": 9452000,
+                "persen_realisasi": 2.082121772843422,
+                "sisa_alokasi": 444508000
+            }
+        ],
+        "meta": {
+            "total": "",
+            "page": "",
+            "limit": ""
+        }
+    },
+    "kegiatan": {
+        "code": 200,
+        "status": "success",
+        "message": "Berhasil Memuat Data",
+        "values": [
+            {
+                "kode_program_rsb": "1.01.01.01.01",
+                "kode_kegiatan_rsb": "1.01.01.01.01.01",
+                "kegiatan_rsb": "Menyediakan program pendidikan sarjana",
+                "total_alokasi": 526668000,
+                "total_realisasi": 58404000,
+                "persen_realisasi": 11.089339014331609,
+                "sisa_alokasi": 468264000
+            },
+            {
+                "kode_program_rsb": "1.01.01.01.01",
+                "kode_kegiatan_rsb": "1.01.01.01.01.91",
+                "kegiatan_rsb": "Menyediakan program pendidikan bergelar",
+                "total_alokasi": 3098803000,
+                "total_realisasi": 131588000,
+                "persen_realisasi": 4.246413857221643,
+                "sisa_alokasi": 2967215000
+            }
+        ],
+        "meta": {
+            "total": "",
+            "page": "",
+            "limit": ""
+        }
+    },
+    "indikator": {
+        "code": 200,
+        "status": "success",
+        "message": "Berhasil Memuat Data",
+        "values": [
+            {
+                "kode_kegiatan_rsb": "1.01.01.01.01.01",
+                "kode_kegiatan_ut_detail": 149,
+                "kode_indikator_sasaran_rsb": "1.01.01.01.01.01.001",
+                "indikator_pencapaian": "Jumlah program studi S1 (sarjana)",
+                "target_capaian": "34",
+                "target_kuantitas": "34",
+                "target_satuan": "prodi",
+                "kuantitas": "2",
+                "kualitas": "Tersedianya Persiapan Pembukaan Program Studi Baru\r\n",
+                "satuan": "Program Studi",
+                "total_alokasi": 526668000,
+                "total_realisasi": 58404000,
+                "persen_realisasi": 11.089339014331609,
+                "sisa_alokasi": 468264000
+            }
+        ],
+        "meta": {
+            "total": "",
+            "page": "",
+            "limit": ""
+        }
+    },
+    "unit_terkait": {
+        "code": 200,
+        "status": "success",
+        "message": "Berhasil Memuat Data",
+        "values": [
+            {
+                "kode_kegiatan_ut_detail": 149,
+                "id_unit": 800,
+                "kode_unit_baru": "UN31.FHISIP",
+                "kode_unit": "UN31.FHISIP",
+                "kode_unit_lama": "UN31.FAK3",
+                "nama_unit_baru": "Fakultas Hukum, Ilmu Sosial dan Ilmu Politik",
+                "nama_unit": "Fakultas Hukum, Ilmu Sosial dan Ilmu Politik",
+                "nama_unit_lama": "Fakultas Hukum, Ilmu Sosial, dan Ilmu Politik",
+                "total_alokasi": 200000000,
+                "total_realisasi": 0,
+                "persen_realisasi": 0,
+                "sisa_alokasi": 200000000
+            },
+            {
+                "kode_kegiatan_ut_detail": 149,
+                "id_unit": 819,
+                "kode_unit_baru": "UN31.FKIP",
+                "kode_unit": "UN31.FKIP",
+                "kode_unit_lama": "UN31.FAK1",
+                "nama_unit_baru": "Fakultas Keguruan dan Ilmu Pendidikan",
+                "nama_unit": "Fakultas Keguruan dan Ilmu Pendidikan",
+                "nama_unit_lama": "Fakultas Keguruan dan Ilmu Pendidikan",
+                "total_alokasi": 53068000,
+                "total_realisasi": 27988000,
+                "persen_realisasi": 52.73988090751489,
+                "sisa_alokasi": 25080000
+            },
+            {
+                "kode_kegiatan_ut_detail": 149,
+                "id_unit": 920,
+                "kode_unit_baru": "UN31.FEB",
+                "kode_unit": "UN31.FEB",
+                "kode_unit_lama": "UN31.FAK2",
+                "nama_unit_baru": "Fakultas Ekonomi dan Bisnis",
+                "nama_unit": "Fakultas Ekonomi dan Bisnis",
+                "nama_unit_lama": "Fakultas Ekonomi",
+                "total_alokasi": 273600000,
+                "total_realisasi": 30416000,
+                "persen_realisasi": 11.116959064327485,
+                "sisa_alokasi": 243184000
+            }
+        ],
+        "meta": {
+            "total": "",
+            "page": "",
+            "limit": ""
+        }
+    }
+}
